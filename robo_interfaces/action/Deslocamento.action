@@ -1,0 +1,12 @@
+# Goal
+float64 latitude_destino
+float64 longitude_destino
+float64 velocidade_lat
+float64 velocidade_lon
+---
+# Result
+float64 distancia_percorrida
+---
+# Feedback
+float64 latitude_atual
+float64 longitude_atual
